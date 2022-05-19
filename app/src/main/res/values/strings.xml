@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">INVIO Film Challenge</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="error">Error</string>
+    <string name="movie_not_found">Movie not found</string>
+</resources>
