@@ -2,12 +2,12 @@
 
 Bu uygulamamda omdb api'ndan retrofit ile veri çekmeyi denedim 
 ### Bu uygulamada kullanılan harici kütüphaneler
--- Navigation \n 
--- Glide
--- RxJava
--- RxAndroid
--- Lottie Files
--- Retrofit
+- Navigation  
+- Glide
+- RxJava
+- RxAndroid
+- Lottie Files
+- Retrofit
 
 ![Image of Search Fragment](https://github.com/UmitCanSu/Omdb-Api-App/blob/master/app/src/main/res/search_fragment.png)
 Bu sayfada filimini araya bilir.
