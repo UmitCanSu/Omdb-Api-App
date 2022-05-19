@@ -13,10 +13,8 @@
         <action
             android:id="@+id/action_movieSearchFragment_to_movieDetailFragment"
             app:destination="@id/movieDetailFragment"
-            app:enterAnim="@anim/from_right"
-            app:exitAnim="@anim/from_left"
-            app:popEnterAnim="@anim/from_left"
-            app:popExitAnim="@anim/from_right" />
+            app:exitAnim="@anim/from_right"
+            app:popEnterAnim="@anim/from_left" />
     </fragment>
     <fragment
         android:id="@+id/movieDetailFragment"

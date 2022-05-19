@@ -49,6 +49,7 @@ class MovieDetailFragment : Fragment() {
 
     private fun observerMovie(){
         viewModel.movieMutable.observe(viewLifecycleOwner, Observer {
+            binding.loadingAnimasyon.visibility = View.GONE
             binding.coustemToolbar.title = it.title
             binding.shapeableImageView.dowloandImage(requireContext(),it.poster.toString())
             binding.titleText.text = it.title
