@@ -19,6 +19,7 @@ Bu uygulamamda omdb api'ndan retrofit ile veri çekmeyi denedim
 - Ktx ile sınıfa eklenti yapıldı
 - Animasyonlar ile sayfalar arası geçiş hazırlandı
 
+### Uygulama ekran görüntüleri
 ![Image of Search Fragment](https://github.com/UmitCanSu/Omdb-Api-App/blob/master/app/src/main/res/search_fragment.png)
 Bu sayfada filimini araya bilir.
 
