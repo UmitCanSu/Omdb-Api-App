@@ -18,7 +18,9 @@ Bu uygulamamda omdb api'ndan retrofit ile veri çekmeyi denedim
 - Mvvm mimarisi kullanıldı
 - Ktx ile sınıfa eklenti yapıldı
 - Animasyonlar ile sayfalar arası geçiş hazırlandı
+
 ![Image of Search Fragment](https://github.com/UmitCanSu/Omdb-Api-App/blob/master/app/src/main/res/search_fragment.png)
 Bu sayfada filimini araya bilir.
+
 ![Image of Detail Fragment](https://github.com/UmitCanSu/Omdb-Api-App/blob/master/app/src/main/res/detail_fragment.png)
 Bu sayfada bulduğunuz filmin detaylarını görebilirsiniz
