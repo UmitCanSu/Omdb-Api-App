@@ -2,7 +2,7 @@
 
 Bu uygulamamda omdb api'ndan retrofit ile veri çekmeyi denedim 
 ### Bu uygulamada kullanılan harici kütüphaneler
--- Navigation 
+-- Navigation \n 
 -- Glide
 -- RxJava
 -- RxAndroid
